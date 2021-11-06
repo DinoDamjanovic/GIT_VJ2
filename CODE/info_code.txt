@@ -1,0 +1,7 @@
+Added new text in the first line -> Some text in the info file
+
+An -other imp line in file
+**********************************
+Added new text after changes ...
+New line - newFix branch
+Second line in the new Fix branch
