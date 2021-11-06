@@ -1,0 +1,8 @@
+Some text in the info file
+New text in the info file
+Main changes -another important text in the file
+**********************************
+Added new text after changes ...
+Added in main - fst
+Second added in main
+Last one in main for now
